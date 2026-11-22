@@ -1,0 +1,7 @@
+{
+  "name": "graduation-clearance-portal",
+  "version": "2.0.0",
+  "private": true,
+  "description": "Automated online graduation clearance",
+  "engines": { "node": ">=18" }
+}
